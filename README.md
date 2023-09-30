@@ -2,7 +2,7 @@
 <br>FullStack Test V1.0 Results
 </h1>
 
-## 📚 FrontEnd Test
+## 📚 FrontEnd Test Answers
 
 1. Q&A test
 2. Practical test.
@@ -12,7 +12,7 @@
 
 ---
 
-## 📚 BackEnd Test
+## 📚 BackEnd Test Answers
 
 1. Q&A test
 2. Practical test.
@@ -21,9 +21,4 @@
 [![Pratical Test](https://img.shields.io/badge/Pratical_Test%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/gontijol/FrontEndTest/blob/luigi/desafioFrontEnd/praticalTest.md)
 
 
----
 
-
-## 🍜 License
-
-[MIT](https://choosealicense.com/licenses/mit/).<br>
