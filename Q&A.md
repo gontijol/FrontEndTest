@@ -12,7 +12,7 @@ Choose a quiet and peaceful place to perform the tests. The main objective is th
 
 :blue_book: <strong><b>1)</b></strong> What skills does a front-end developer need?
 
-R: Um desenvolvedor front-end necessita de muitas skills, sendo elas: Entendimento de interface de usuário(UI/UX), O patrão de desenvolvimento web front-end dispõe principalmente de três linguagens, Uma linguagem de marcação, uma de estilização e uma de programação, respectivamente: HTML, CSS e Javascript. Esta última é o motor onde se atribui alguns frameworks conhecidos, como React.JS, Vue.JS. Além disso um desenvolvedor Front-End também precisa entender como utilizar as bibliotecas poderosas do CSS, sendo elas o bootstrap e Tailwind CSS.
+R: Um desenvolvedor front-end necessita de muitas skills, sendo elas: Entendimento de interface de usuário(UI/UX), O desenvolvimento web front-end dispõe principalmente de três linguagens, Uma linguagem de marcação, uma de estilização e uma de programação, respectivamente: HTML, CSS e Javascript. Esta última é o motor onde se atribui alguns frameworks conhecidos, como React.JS, Vue.JS. Além disso um desenvolvedor Front-End também precisa entender como utilizar as bibliotecas poderosas do CSS, sendo elas o bootstrap e Tailwind CSS.
 
 Além de tudo isso, um desenvolvedor `frontend` deve se atentar principalmente ao aspecto de responsividade, para que a experiência do usuário seja uniforme e agradável em diferentes tamanhos de dispositivos.
 
@@ -30,7 +30,7 @@ Há discussões sobre o que é o React, muitos atribuem o React como um framewor
 
 :blue_book: <strong><b>5)</b></strong> Describe the advantages of REST web services?
 
-Os serviços `REST` permitem a comunicação entre sistemas diferentes convertendo informações (encode) que primáriamente são variáveis/objetos para dados estruturados, após isso é feito(decode) a conversão novamente na outra ponta de comunicação para um Objeto/Variável.
+Os serviços `REST` permitem a comunicação entre sistemas diferentes convertendo informações (encode) que primáriamente são variáveis/objetos para dados estruturados(JSON, XML, CSV), após isso é feito(decode) a conversão novamente na outra ponta de comunicação para um Objeto/Variável.
 
 :blue_book: <strong><b>6)</b></strong> How browsers render the UI?
 
